@@ -1,0 +1,85 @@
+<!-- KURS SREDNI 23% -->
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="http://www.comarch.pl/cdn/optima/offline">
+    <REJESTRY_SPRZEDAZY_VAT>
+        <WERSJA>2.00</WERSJA>
+        <BAZA_ZRD_ID>XXX</BAZA_ZRD_ID>
+        <BAZA_DOC_ID>XXX</BAZA_DOC_ID>
+        <REJESTR_SPRZEDAZY_VAT>
+          
+          <DATA_WYSTAWIENIA><![CDATA[2021-09-10]]></DATA_WYSTAWIENIA>
+          
+          <WALUTA><![CDATA[EUR]]></WALUTA>
+          <KURS_WALUTY><![CDATA[NBP]]></KURS_WALUTY>
+          <NOTOWANIE_WALUTY_ILE>4.5315</NOTOWANIE_WALUTY_ILE>
+          <DATA_KURSU><![CDATA[2021-09-09]]></DATA_KURSU>
+          
+          <KURS_WALUTY_2><![CDATA[NBP]]></KURS_WALUTY_2>
+          <NOTOWANIE_WALUTY_ILE_2>4.5315</NOTOWANIE_WALUTY_ILE_2>
+          <DATA_KURSU_2><![CDATA[2021-09-09]]></DATA_KURSU_2>
+          
+          <POZYCJE>
+              <POZYCJA>
+                 <STAWKA_VAT>23</STAWKA_VAT>
+                 <STATUS_VAT>opodatkowana</STATUS_VAT>
+                
+                 <NETTO>81.3</NETTO>                NETTO W PLN
+                 <VAT>18.7</VAT>                    VAT W PLN
+                 <NETTO_SYS>368.41</NETTO_SYS>      NETTO W WALUCIE
+                 <VAT_SYS>84.74</VAT_SYS>           VAT W WALUCIE
+                 <NETTO_SYS2>368.41</NETTO_SYS2>    NETTO W WALUCIE
+                 <VAT_SYS2>84.74</VAT_SYS2>         VAT W WALUCIE
+              </POZYCJA>
+          </POZYCJE>
+          
+          <PLATNOSCI>
+                <PLATNOSC>
+                    <KWOTA_PLAT>300</KWOTA_PLAT>                            BRUTTO W PLN
+                    <WALUTA_PLAT><![CDATA[EUR]]></WALUTA_PLAT>
+                    <KURS_WALUTY_PLAT><![CDATA[NBP]]></KURS_WALUTY_PLAT>    
+                    <NOTOWANIE_WALUTY_ILE_PLAT>4.5315</NOTOWANIE_WALUTY_ILE_PLAT>
+                    <KWOTA_PLN_PLAT>1359.45</KWOTA_PLN_PLAT>                BRUTTO W WALUCIE
+                    <DATA_KURSU_PLAT><![CDATA[2021-09-09]]></DATA_KURSU_PLAT>
+                    <WALUTA_DOK><![CDATA[EUR]]></WALUTA_DOK>
+                </PLATNOSC>
+          </PLATNOSCI>
+          
+        </REJESTR_SPRZEDAZY_VAT>
+    </REJESTRY_SPRZEDAZY_VAT>
+</ROOT>
+<!-- KURS NIEOKRESLONY 23% -->
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="http://www.comarch.pl/cdn/optima/offline">
+    <REJESTRY_SPRZEDAZY_VAT>
+        <WERSJA>2.00</WERSJA>
+        <BAZA_ZRD_ID>XXX</BAZA_ZRD_ID>
+        <BAZA_DOC_ID>XXX</BAZA_DOC_ID>
+        <REJESTR_SPRZEDAZY_VAT>
+          
+            <DATA_WYSTAWIENIA><![CDATA[2021-09-10]]></DATA_WYSTAWIENIA>
+          
+            <KURS_WALUTY><![CDATA[NIE]]></KURS_WALUTY>
+            <NOTOWANIE_WALUTY_ILE>0</NOTOWANIE_WALUTY_ILE>
+            <DATA_KURSU><![CDATA[2021-09-09]]></DATA_KURSU>
+          
+            <KURS_WALUTY_2><![CDATA[NIE]]></KURS_WALUTY_2>
+            <NOTOWANIE_WALUTY_ILE_2>0</NOTOWANIE_WALUTY_ILE_2>
+            <DATA_KURSU_2><![CDATA[2021-09-09]]></DATA_KURSU_2>
+            
+            <POZYCJE>
+              <POZYCJA>
+                  <STAWKA_VAT>23</STAWKA_VAT>
+                  <STATUS_VAT>opodatkowana</STATUS_VAT>
+                
+                  <NETTO>81.3</NETTO>             NETTO W PLN
+                  <VAT>18.7</VAT>                 VAT W PLN
+                  <NETTO_SYS>81.3</NETTO_SYS>     NETTO W PLN
+                  <VAT_SYS>18.7</VAT_SYS>         VAT W PLN
+                  <NETTO_SYS2>81.3</NETTO_SYS2>   NETTO W PLN
+                  <VAT_SYS2>18.7</VAT_SYS2>       VAT W PLN
+              </POZYCJA>
+          </POZYCJE>
+          
+        </REJESTR_SPRZEDAZY_VAT>
+    </REJESTRY_SPRZEDAZY_VAT>
+</ROOT>
