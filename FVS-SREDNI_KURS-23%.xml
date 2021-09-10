@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT xmlns="http://www.comarch.pl/cdn/optima/offline">
+    <REJESTRY_SPRZEDAZY_VAT>
+        <WERSJA>2.00</WERSJA>
+        <BAZA_ZRD_ID>XXX</BAZA_ZRD_ID>
+        <BAZA_DOC_ID>XXX</BAZA_DOC_ID>
+        <REJESTR_SPRZEDAZY_VAT>
+            <ID_ZRODLA><![CDATA[]]></ID_ZRODLA>
+            <MODUL>Rejestr Vat</MODUL>
+            <TYP>Rejestr sprzedazy</TYP>
+            <REJESTR><![CDATA[REJESTR X]]></REJESTR>
+            <DATA_WYSTAWIENIA><![CDATA[2021-09-10]]></DATA_WYSTAWIENIA>
+            <DATA_SPRZEDAZY><![CDATA[2021-09-10]]></DATA_SPRZEDAZY>
+            <TERMIN><![CDATA[2021-09-18]]></TERMIN>
+            <DATA_DATAOBOWIAZKUPODATKOWEGO><![CDATA[2021-09-10]]></DATA_DATAOBOWIAZKUPODATKOWEGO>
+            <DATA_DATAPRAWAODLICZENIA><![CDATA[2021-09-10]]></DATA_DATAPRAWAODLICZENIA>
+            <NUMER><![CDATA[SPRZEDAZ nr 1 WALUTA SREDNI KURS]]></NUMER>
+            <KOREKTA>Nie</KOREKTA>
+            <KOREKTA_NUMER><![CDATA[]]></KOREKTA_NUMER>
+            <WEWNETRZNA>Nie</WEWNETRZNA>
+            <METODA_KASOWA>Nie</METODA_KASOWA>
+            <FISKALNA>Nie</FISKALNA>
+            <DETALICZNA>Nie</DETALICZNA>
+            <EKSPORT>nie</EKSPORT>
+            <FINALNY>Nie</FINALNY>
+            <PODATNIK_CZYNNY>Tak</PODATNIK_CZYNNY>
+            <IDENTYFIKATOR_KSIEGOWY><![CDATA[]]></IDENTYFIKATOR_KSIEGOWY>
+            <TYP_PODMIOTU><![CDATA[kontrahent]]></TYP_PODMIOTU>
+            <PODMIOT><![CDATA[1000]]></PODMIOT>
+            <PODMIOT_ID><![CDATA[]]></PODMIOT_ID>
+            <PODMIOT_NIP><![CDATA[]]></PODMIOT_NIP>
+            <NAZWA1><![CDATA[]]></NAZWA1>
+            <NAZWA2><![CDATA[]]></NAZWA2>
+            <NAZWA3><![CDATA[]]></NAZWA3>
+            <NIP_KRAJ><![CDATA[]]></NIP_KRAJ>
+            <NIP><![CDATA[]]></NIP>
+            <KRAJ><![CDATA[Polska]]></KRAJ>
+            <WOJEWODZTWO><![CDATA[]]></WOJEWODZTWO>
+            <POWIAT><![CDATA[]]></POWIAT>
+            <GMINA><![CDATA[]]></GMINA>
+            <ULICA><![CDATA[]]></ULICA>
+            <NR_DOMU><![CDATA[]]></NR_DOMU>
+            <NR_LOKALU><![CDATA[]]></NR_LOKALU>
+            <MIASTO><![CDATA[]]></MIASTO>
+            <KOD_POCZTOWY><![CDATA[]]></KOD_POCZTOWY>
+            <POCZTA><![CDATA[]]></POCZTA>
+            <DODATKOWE><![CDATA[]]></DODATKOWE>
+            <PESEL><![CDATA[]]></PESEL>
+            <ROLNIK>Nie</ROLNIK>
+            <TYP_PLATNIKA><![CDATA[kontrahent]]></TYP_PLATNIKA>
+            <PLATNIK><![CDATA[1000]]></PLATNIK>
+            <PLATNIK_ID><![CDATA[]]></PLATNIK_ID>
+            <PLATNIK_NIP><![CDATA[]]></PLATNIK_NIP>
+            <PLATNIK_RACHUNEK_NR><![CDATA[]]></PLATNIK_RACHUNEK_NR>
+            <KATEGORIA><![CDATA[701-10-1]]></KATEGORIA>
+            <KATEGORIA_ID><![CDATA[]]></KATEGORIA_ID>
+            <OPIS><![CDATA[SPRZEDAZ nr 1 WALUTA SREDNI KURS]]></OPIS>
+            <FORMA_PLATNOSCI><![CDATA[przelew]]></FORMA_PLATNOSCI>
+            <FORMA_PLATNOSCI_ID><![CDATA[]]></FORMA_PLATNOSCI_ID>
+            <DEKLARACJA_VAT7><![CDATA[2021-09]]></DEKLARACJA_VAT7>
+            <DEKLARACJA_VATUE><![CDATA[Nie]]></DEKLARACJA_VATUE>
+            <WALUTA><![CDATA[EUR]]></WALUTA>
+            <KURS_WALUTY><![CDATA[NBP]]></KURS_WALUTY>
+            <NOTOWANIE_WALUTY_ILE>4.5315</NOTOWANIE_WALUTY_ILE>
+            <NOTOWANIE_WALUTY_ZA_ILE>1</NOTOWANIE_WALUTY_ZA_ILE>
+            <DATA_KURSU><![CDATA[2021-09-09]]></DATA_KURSU>
+            <KURS_DO_KSIEGOWANIA>Nie</KURS_DO_KSIEGOWANIA>
+            <KURS_WALUTY_2><![CDATA[NBP]]></KURS_WALUTY_2>
+            <NOTOWANIE_WALUTY_ILE_2>4.5315</NOTOWANIE_WALUTY_ILE_2>
+            <NOTOWANIE_WALUTY_ZA_ILE_2>1</NOTOWANIE_WALUTY_ZA_ILE_2>
+            <DATA_KURSU_2><![CDATA[2021-09-09]]></DATA_KURSU_2>
+            <PLATNOSC_VAT_W_PLN>Nie</PLATNOSC_VAT_W_PLN>
+            <AKCYZA_NA_WEGIEL>0</AKCYZA_NA_WEGIEL>
+            <AKCYZA_NA_WEGIEL_KOLUMNA_KPR>nie księgować</AKCYZA_NA_WEGIEL_KOLUMNA_KPR>
+            <JPK_FA>Tak</JPK_FA>
+            <DEKLARACJA_VAT27><![CDATA[Nie]]></DEKLARACJA_VAT27>
+            <FA_Z_PA>Nie</FA_Z_PA>
+            <VAN_FA_Z_PA>Nie</VAN_FA_Z_PA>
+            <VAN_RODZAJ>0</VAN_RODZAJ>
+            <MPP>Nie</MPP>
+            <PODATEK_W_OSS>Nie</PODATEK_W_OSS>
+            <KOD_KRAJU_ODBIORCY><![CDATA[]]></KOD_KRAJU_ODBIORCY>
+            <POZYCJE>
+                <POZYCJA>
+                    <LP>1</LP>
+                    <KATEGORIA_POS><![CDATA[701-10-1]]></KATEGORIA_POS>
+                    <KATEGORIA_ID_POS><![CDATA[]]></KATEGORIA_ID_POS>
+                    <STAWKA_VAT>23</STAWKA_VAT>
+                    <STATUS_VAT>opodatkowana</STATUS_VAT>
+                    <NETTO>81.3</NETTO>
+                    <VAT>18.7</VAT>
+                    <NETTO_SYS>368.41</NETTO_SYS>
+                    <VAT_SYS>84.74</VAT_SYS>
+                    <NETTO_SYS2>368.41</NETTO_SYS2>
+                    <VAT_SYS2>84.74</VAT_SYS2>
+                    <RODZAJ_SPRZEDAZY>towary</RODZAJ_SPRZEDAZY>
+                    <UWZ_W_PROPORCJI>tak</UWZ_W_PROPORCJI>
+                    <KOLUMNA_KPR><![CDATA[Nie księgować]]></KOLUMNA_KPR>
+                    <KOLUMNA_RYCZALT><![CDATA[Nie księgować]]></KOLUMNA_RYCZALT>
+                    <OPIS_POZ><![CDATA[Recharge of Intercompany services]]></OPIS_POZ>
+                </POZYCJA>
+                <POZYCJA>
+                    <LP>2</LP>
+                    <KATEGORIA_POS><![CDATA[701-10-1]]></KATEGORIA_POS>
+                    <KATEGORIA_ID_POS><![CDATA[]]></KATEGORIA_ID_POS>
+                    <STAWKA_VAT>23</STAWKA_VAT>
+                    <STATUS_VAT>opodatkowana</STATUS_VAT>
+                    <NETTO>162.6</NETTO>
+                    <VAT>37.4</VAT>
+                    <NETTO_SYS>736.82</NETTO_SYS>
+                    <VAT_SYS>169.48</VAT_SYS>
+                    <NETTO_SYS2>736.82</NETTO_SYS2>
+                    <VAT_SYS2>169.48</VAT_SYS2>
+                    <RODZAJ_SPRZEDAZY>towary</RODZAJ_SPRZEDAZY>
+                    <UWZ_W_PROPORCJI>tak</UWZ_W_PROPORCJI>
+                    <KOLUMNA_KPR><![CDATA[Nie księgować]]></KOLUMNA_KPR>
+                    <KOLUMNA_RYCZALT><![CDATA[Nie księgować]]></KOLUMNA_RYCZALT>
+                    <OPIS_POZ><![CDATA[Recharge of Intercompany services]]></OPIS_POZ>
+                </POZYCJA>
+            </POZYCJE>
+            <KWOTY_DODATKOWE/>
+            <PLATNOSCI>
+                <PLATNOSC>
+                    <ID_ZRODLA_PLAT><![CDATA[]]></ID_ZRODLA_PLAT>
+                    <TERMIN_PLAT><![CDATA[2021-09-18]]></TERMIN_PLAT>
+                    <FORMA_PLATNOSCI_PLAT><![CDATA[przelew]]></FORMA_PLATNOSCI_PLAT>
+                    <FORMA_PLATNOSCI_ID_PLAT><![CDATA[]]></FORMA_PLATNOSCI_ID_PLAT>
+                    <KWOTA_PLAT>300</KWOTA_PLAT>
+                    <WALUTA_PLAT><![CDATA[EUR]]></WALUTA_PLAT>
+                    <KURS_WALUTY_PLAT><![CDATA[NBP]]></KURS_WALUTY_PLAT>
+                    <NOTOWANIE_WALUTY_ILE_PLAT>4.5315</NOTOWANIE_WALUTY_ILE_PLAT>
+                    <NOTOWANIE_WALUTY_ZA_ILE_PLAT>1</NOTOWANIE_WALUTY_ZA_ILE_PLAT>
+                    <KWOTA_PLN_PLAT>1359.45</KWOTA_PLN_PLAT>
+                    <KIERUNEK>przychód</KIERUNEK>
+                    <PODLEGA_ROZLICZENIU>tak</PODLEGA_ROZLICZENIU>
+                    <KONTO><![CDATA[231]]></KONTO>
+                    <NIE_NALICZAJ_ODSETEK>Nie</NIE_NALICZAJ_ODSETEK>
+                    <PRZELEW_SEPA>Nie</PRZELEW_SEPA>
+                    <DATA_KURSU_PLAT><![CDATA[2021-09-09]]></DATA_KURSU_PLAT>
+                    <WALUTA_DOK><![CDATA[EUR]]></WALUTA_DOK>
+                    <PLATNOSC_TYP_PODMIOTU><![CDATA[kontrahent]]></PLATNOSC_TYP_PODMIOTU>
+                    <PLATNOSC_PODMIOT><![CDATA[1000]]></PLATNOSC_PODMIOT>
+                    <PLATNOSC_PODMIOT_ID><![CDATA[]]></PLATNOSC_PODMIOT_ID>
+                    <PLATNOSC_PODMIOT_NIP><![CDATA[]]></PLATNOSC_PODMIOT_NIP>
+                    <PLAT_KATEGORIA><![CDATA[701-10-1]]></PLAT_KATEGORIA>
+                    <PLAT_KATEGORIA_ID><![CDATA[]]></PLAT_KATEGORIA_ID>
+                    <PLAT_ELIXIR_O1><![CDATA[Zapłata za SPRZEDAZ nr 1 WALUTA SRE]]></PLAT_ELIXIR_O1>
+                    <PLAT_ELIXIR_O2><![CDATA[DNI KURS]]></PLAT_ELIXIR_O2>
+                    <PLAT_ELIXIR_O3><![CDATA[]]></PLAT_ELIXIR_O3>
+                    <PLAT_ELIXIR_O4><![CDATA[]]></PLAT_ELIXIR_O4>
+                    <PLAT_FA_Z_PA>Nie</PLAT_FA_Z_PA>
+                    <PLAT_VAN_FA_Z_PA>Nie</PLAT_VAN_FA_Z_PA>
+                    <PLAT_SPLIT_PAYMENT>Nie</PLAT_SPLIT_PAYMENT>
+                    <PLAT_SPLIT_NR_DOKUMENTU><![CDATA[SPRZEDAZ nr 1 WALUTA SREDNI KU]]></PLAT_SPLIT_NR_DOKUMENTU>
+                </PLATNOSC>
+            </PLATNOSCI>
+            <DOKUMENTY_OBD/>
+            <KODY_JPK/>
+            <ATRYBUTY/>
+        </REJESTR_SPRZEDAZY_VAT>
+    </REJESTRY_SPRZEDAZY_VAT>
+</ROOT>
